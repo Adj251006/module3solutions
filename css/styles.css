@@ -1,0 +1,7 @@
+/* File: module3-solution/css/styles.css */
+.section-box {
+  background-color: #f0f0f0;
+  height: 1000px;
+  padding: 20px;
+  box-sizing: border-box;
+}
